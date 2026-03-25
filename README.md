@@ -10,4 +10,6 @@ Daily Bible Verse
 81-Jeremiah 17:7-8 22nd March
 82-Ephesians 6:10-11
 83-James 1:12
+84- Matthew 6:14-15
+85- 1 John 1:9
 
