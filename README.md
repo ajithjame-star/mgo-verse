@@ -12,4 +12,5 @@ Daily Bible Verse
 83-James 1:12
 84- Matthew 6:14-15
 85- 1 John 1:9
+86- Philippians 1:29
 
