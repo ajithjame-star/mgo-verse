@@ -13,4 +13,6 @@ Daily Bible Verse
 84- Matthew 6:14-15
 85- 1 John 1:9
 86- Philippians 1:29
+87-
+88-Romans 12:2
 
