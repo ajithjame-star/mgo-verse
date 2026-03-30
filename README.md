@@ -15,4 +15,5 @@ Daily Bible Verse
 86- Philippians 1:29
 87-
 88-Romans 12:2
+89-Isaiah 41:10
 
