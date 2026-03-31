@@ -17,5 +17,6 @@ Daily Bible Verse
 88-Romans 12:2
 89-Isaiah 54:10
 90-Isaiah 41:10
-91-Psalm 119:105
+91-Psalm 32:8
+92-Psalm 119:105
 
