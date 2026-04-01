@@ -19,4 +19,5 @@ Daily Bible Verse
 90-Isaiah 41:10
 91-Psalm 32:8
 92-Psalm 119:105
+93- Isaiah 46:4
 
