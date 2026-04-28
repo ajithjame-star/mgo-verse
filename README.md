@@ -21,3 +21,19 @@ Daily Bible Verse
 92-Psalm 119:105
 93- Isaiah 46:4
 
+
+
+118- Malachi 3:6
+119- 1 Corinthians 10:13
+120- Psalm 103:19
+121- Psalm 24:1
+122- Psalm 145:13
+123- Job 33:4
+124- Psalm 100:5
+125- Psalm 33:6
+126- Psalm 19:1
+127- Psalm 90:2
+128- Psalm 145:9
+129- Philippians 2:5-8
+
+
