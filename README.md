@@ -37,3 +37,39 @@ Daily Bible Verse
 129- Philippians 2:5-8
 
 
+
+
+135- Psalm 103:8
+136- Isaiah 46:10
+137- Psalm 45:6
+138- Psalm 119:89
+139- Psalm 139:7-10
+140- Psalm 36:6 
+141- Deuteronomy 7:9
+142- Psalm 47:7-9
+143- Acts 17:24-25
+144- Psalm 145:17
+145- Psalm 36:5
+146- Ephesians 3:14-15
+147- Psalm 33:11   
+148- Jeremiah 1:5
+149- 1 Peter 1:24-25
+150- Psalm 116:5
+151- Psalm 37:18
+152- Isaiah 55:10-11
+153- Psalm 36:7
+154- Psalm 33:4
+155- Zephaniah 3:17
+156- John 17:23
+157- Deuteronomy 7:6
+158- Psalm 119:73
+159- Genesis 1:27-28
+160- Colossians 1:21-22
+161- Isaiah 54:10
+162- Revelation 4:11
+163- Psalm 139:13
+164- Psalm 145:16
+165- Psalm 68:5
+166- 1 Chronicles 16:34
+167- Psalm 139:17-18
+1_167.json
