@@ -83,3 +83,4 @@ Daily Bible Verse
 182- Ephesians 1:4-5
 183- Isaiah 44:22
 184- 1 Peter 2:9
+185- Isaiah 64:8
