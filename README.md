@@ -84,3 +84,19 @@ Daily Bible Verse
 183- Isaiah 44:22
 184- 1 Peter 2:9
 185- Isaiah 64:8
+186- Luke 1:32
+187- Psalm 94:14
+188- Psalm 103:13
+189- Psalm 71:6
+190- Psalm 139:16
+
+191- Ephesians 2:10
+192- Romans 8:2
+193- Isaiah 40:11
+194- Colossians 1:12-13
+195- Ephesians 1:13-14
+196- 1 Corinthians 1:27
+197- Isaiah 46:4
+198- Numbers 6:25
+199- 1 Samuel 12:22
+200- Exodus 15:26
