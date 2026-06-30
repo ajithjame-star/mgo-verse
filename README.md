@@ -78,3 +78,8 @@ Daily Bible Verse
 1_170.json
 
 179-temp
+
+181-Psalm 100:3
+182- Ephesians 1:4-5
+183- Isaiah 44:22
+184- 1 Peter 2:9
