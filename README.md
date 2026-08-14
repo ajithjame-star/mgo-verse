@@ -21,7 +21,7 @@ Daily Bible Verse
 92-Psalm 119:105
 93- Isaiah 46:4
 
-
+ 
 
 118- Malachi 3:6
 119- 1 Corinthians 10:13
