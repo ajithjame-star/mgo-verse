@@ -128,10 +128,11 @@ Daily Bible Verse
 223-
 224-
 225-
-226-
-227-
-228-
-229-
+jan 7 to may 7 used 1-7 stating from jan 8 in series
+226- Galatians 4:6
+227- Galatians 3:29
+228- Ezekiel 36:26-27
+229- Jeremiah 29:11
 230-
 231-
 232-
