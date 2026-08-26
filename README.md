@@ -133,15 +133,15 @@ jan 7 to may 7 used 1-7 stating from jan 8 in series
 227- Galatians 3:29
 228- Ezekiel 36:26-27
 229- Jeremiah 29:11
-230-
-231-
-232-
-233-
-234-
-235-
-236-
-237-
-238-
+230- Philippians 2:13
+231- Psalm 23:2
+232-John 3:34
+233-Psalm 37:24
+234- Hebrews 13:20-21
+235- Proverbs 3:11-12
+236- 2 Corinthians 12:9
+237- Numbers 6:24
+238- Jeremiah 29:13
 239-
 240-
 241-
