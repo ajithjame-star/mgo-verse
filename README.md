@@ -135,44 +135,46 @@ jan 7 to may 7 used 1-7 stating from jan 8 in series
 229- Jeremiah 29:11
 230- Philippians 2:13
 231- Psalm 23:2
-232-John 3:34
-233-Psalm 37:24
-234- Hebrews 13:20-21
-235- Proverbs 3:11-12
-236- 2 Corinthians 12:9
-237- Numbers 6:24
-238- Jeremiah 29:13
-239- Psalm 97:10
-240-
-241-
-242-
-243-
-244-
-245-
-246-
-247-
-248-
-249-
-250-
-251-
-252-
-253-
-254-
-255-
-256-
-257-
-258-
-259-
-260-
-261-
-262-
-263-
-264-
-265-
-266-
-267-
-268-
-269-
+232  - John 3:34
+233  - Psalm 37:24
+234  - Hebrews 13:20-21
+235  - Proverbs 3:11-12
+236  - 2 Corinthians 12:9
+237  - Numbers 6:24
+238  - Jeremiah 29:13
+239  - Psalm 97:10
+240  - 1 Peter 5:7
+241  - 1 Corinthians 10:13
+242  - 1 Corinthians 13:4-7
+243  - Psalm 84:11
+244  - Psalm 146:9
+245  - Psalm 116:6
+246  - Romans 8:37
+247  - 1 Peter 5:4
+248  - Matthew 13:43
+249  - Joshua 23:14
+250  - Proverbs 3:5-6
+251  - 2 Thessalonians 3:16
+252  - Psalm 91:15
+253  - Psalm 61:3
+254  - Isaiah 64:4
+255  - 1 Corinthians 13:8
+256  - Psalm 23:1
+257  - John 10:29
+258  - Psalm 147:3
+259  - Matthew 5:4
+260  - 2 Corinthians 3:17
+261  - 1 John 4:16
+262  - Psalm 9:10
+263  - Psalm 68:6
+264  - 1 John 5:14
+265  - Hebrews 11:6
+266  - 1 Thessalonians 5:23-24
+267  - 2 Corinthians 5:1
+268  - Revelation 3:21
+269  - Acts 2:39
+
+
 270-
 271-
 272-
