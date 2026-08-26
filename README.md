@@ -72,7 +72,7 @@ Daily Bible Verse
 165- Psalm 68:5
 166- 1 Chronicles 16:34
 167- Psalm 139:17-18
-168- 1 Peter 2:6
+168- 1 Peter 2:6 
 169- Psalm 139:1-3
 170- Psalm 139:14
 1_170.json
