@@ -142,7 +142,7 @@ jan 7 to may 7 used 1-7 stating from jan 8 in series
 236- 2 Corinthians 12:9
 237- Numbers 6:24
 238- Jeremiah 29:13
-239-
+239- Psalm 97:10
 240-
 241-
 242-
