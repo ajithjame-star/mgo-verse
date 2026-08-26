@@ -175,30 +175,31 @@ jan 7 to may 7 used 1-7 stating from jan 8 in series
 269  - Acts 2:39
 
 
-270-
-271-
-272-
-273-
-274-
-275-
-276-
-277-
-278-
-279-
-280-
-281-
-282-
-283-
-284-
-285-
-286-
-287-
-288-
-289-
-290-
-291-
-292-
-293-
+270  - Ephesians 2:13
+271  - Colossians 3:3
+272  - Romans 8:11
+273  - Ephesians 1:3
+274  - Proverbs 16:3
+275  - Isaiah 41:10
+276  - Hebrews 13:5
+277  - Psalm 31:7
+278  - Isaiah 43:2
+279  - 1 John 2:27
+280  - Psalm 91:1
+281  - 2 Samuel 22:33-34
+282  - Psalm 91:7
+283  - Psalm 146:7
+284  - 2 Peter 1:3
+285  - James 2:13
+286  - Romans 8:28
+287  - 1 Peter 5:6
+288  - Isaiah 49:16
+289  - Galatians 6:9
+290  - 1 Corinthians 9:24-25
+291  - Matthew 25:34
+292  - Psalm 116:15
+293  - Deuteronomy 4:31
+
 294-
 295-
 296-
